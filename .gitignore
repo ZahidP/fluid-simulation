@@ -1,0 +1,15 @@
+.DS_Store
+data
+*venv
+py/models
+*/__pycache__/*
+*/*__pycache__/*
+*.ipynb_checkpoints/
+*/.egg-info/*
+py/gifs/
+py/fluid_simulation/fluid_simulation.egg-info
+py/fluid_simulation.egg-info
+py/fluid_simulation/__pycache__
+py/fluid_simulation/experimental
+*.csv
+*__pycache__
